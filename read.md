@@ -1,5 +1,5 @@
 To run the application perform certain task -------->>
-1. Open the backend folder in terminal and run the command **node index.html**
+1. Open the backend folder in terminal and run the command **node index.js**
 2.  Then open the frontend part of the program and simple run the index.html file in local browser to use the todo list application.
 
 Instructions to use the Todo list application --------->>
