@@ -1,6 +1,6 @@
 To run the application perform certain task -------->>
 1. Open the backend folder in terminal and run the command **node index.js**
-2.  Then open the frontend part of the program and simple run the index.html file in local browser to use the todo list application.
+2.  Then open the frontend part of the program and simple make the project go live with the help of vsCode extension live server so it can run the web browser.
 
 Instructions to use the Todo list application --------->>
 
